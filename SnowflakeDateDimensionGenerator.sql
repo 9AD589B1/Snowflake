@@ -1,6 +1,6 @@
 /********************************************************************************
 	This script will create a date dimension for a Snowflake database. You will
-	need to adjust the recursive WITH clause to create the appropriate range
+	need to adjust the WITH clause to create the appropriate range
 	of dates. 
 *********************************************************************************/
 
